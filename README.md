@@ -1,6 +1,4 @@
-To provide a professional overview of the parcel damage detection system, I have drafted a `README.md` file based on the provided YOLOv8 training pipeline. This document highlights the current technical issues found in the implementation and suggests specific improvements to enhance model reliability for deployment on edge devices like the NVIDIA Jetson Orin.
 
----
 
 # 📦 Parcel Damage Detection for Conveyor Systems
 
