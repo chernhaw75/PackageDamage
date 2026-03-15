@@ -5,6 +5,8 @@
 This project implements an end-to-end computer vision pipeline to detect **damaged vs. normal shipping packages** in real-time. It is designed for industrial environments, optimized for high-speed edge inference on the NVIDIA Jetson Orin.
 
 **🚀 Live Demo:** [Hugging Face Space - PackageCam](https://huggingface.co/spaces/chernhaw1/packagecam)
+*** https://youtube.com/shorts/klqzq7pItio
+
 
 ---
 
